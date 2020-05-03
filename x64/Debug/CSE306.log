@@ -1,0 +1,19 @@
+﻿  Sphere.cpp
+  main.cpp
+c:\users\abdelrahman\source\repos\cse306\cse306\main.cpp(44): warning C4244: '=': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\abdelrahman\source\repos\cse306\cse306\main.cpp(45): warning C4244: '=': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\abdelrahman\source\repos\cse306\cse306\main.cpp(46): warning C4244: '=': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Generating Code...
+  CSE306.vcxproj -> C:\Users\Abdelrahman\source\repos\CSE306\x64\Debug\CSE306.exe
