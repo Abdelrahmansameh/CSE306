@@ -1,2 +1,2 @@
 # CSE306
-ray tracer
+ray tracer works with visual studio
